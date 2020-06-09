@@ -1,1 +1,338 @@
-{"name":"gAudioBundle-1","title":"Game Audio Bundle 1","description":"<p>High-quality sound effects from many of the best sound recordists and designers in the World. Use them personally or commercially without attribution. Sonniss LTD.</p>","version":"1.0","minimumCoreVersion":"0.5.0","compatibleCoreVersion":"0.7.0","author":"DatDamnZotz [DatDamnZotz#7962]","packs":[{"name":"gab-1-3maze","label":"gab-13maze","path":"/packs/3maze.db","entity":"Playlist"},{"name":"gab-1-Alexander Kopeikin","label":"gab-1Alexander Kopeikin","path":"/packs/Alexander Kopeikin.db","entity":"Playlist"},{"name":"gab-1-Alexey Sinitsyn","label":"gab-1Alexey Sinitsyn","path":"/packs/Alexey Sinitsyn.db","entity":"Playlist"},{"name":"gab-1-Audiobeast","label":"gab-1Audiobeast","path":"/packs/Audiobeast.db","entity":"Playlist"},{"name":"gab-1-Audionym","label":"gab-1Audionym","path":"/packs/Audionym.db","entity":"Playlist"},{"name":"gab-1-Blik Blinks","label":"gab-1Blik Blinks","path":"/packs/Blik Blinks.db","entity":"Playlist"},{"name":"gab-1-Bluezone","label":"gab-1Bluezone","path":"/packs/Bluezone.db","entity":"Playlist"},{"name":"gab-1-Bombay Sonic","label":"gab-1Bombay Sonic","path":"/packs/Bombay Sonic.db","entity":"Playlist"},{"name":"gab-1-Bottle Rocket Fx","label":"gab-1Bottle Rocket Fx","path":"/packs/Bottle Rocket Fx.db","entity":"Playlist"},{"name":"gab-1-Bryce Raffle Sound","label":"gab-1Bryce Raffle Sound","path":"/packs/Bryce Raffle Sound.db","entity":"Playlist"},{"name":"gab-1-Chupapsound","label":"gab-1Chupapsound","path":"/packs/Chupapsound.db","entity":"Playlist"},{"name":"gab-1-Colin Lechner","label":"gab-1Colin Lechner","path":"/packs/Colin Lechner.db","entity":"Playlist"},{"name":"gab-1-Collected Transients","label":"gab-1Collected Transients","path":"/packs/Collected Transients.db","entity":"Playlist"},{"name":"gab-1-Detunized","label":"gab-1Detunized","path":"/packs/Detunized.db","entity":"Playlist"},{"name":"gab-1-Digital Rain Lab","label":"gab-1Digital Rain Lab","path":"/packs/Digital Rain Lab.db","entity":"Playlist"},{"name":"gab-1-Eiravaein Sound","label":"gab-1Eiravaein Sound","path":"/packs/Eiravaein Sound.db","entity":"Playlist"},{"name":"gab-1-Fascinated Sound","label":"gab-1Fascinated Sound","path":"/packs/Fascinated Sound.db","entity":"Playlist"},{"name":"gab-1-Filmnoise","label":"gab-1Filmnoise","path":"/packs/Filmnoise.db","entity":"Playlist"},{"name":"gab-1-Game Audio Factory","label":"gab-1Game Audio Factory","path":"/packs/Game Audio Factory.db","entity":"Playlist"},{"name":"gab-1-George Karagioules","label":"gab-1George Karagioules","path":"/packs/George Karagioules.db","entity":"Playlist"},{"name":"gab-1-Griffinsound","label":"gab-1Griffinsound","path":"/packs/Griffinsound.db","entity":"Playlist"},{"name":"gab-1-Hzandbits","label":"gab-1Hzandbits","path":"/packs/Hzandbits.db","entity":"Playlist"},{"name":"gab-1-Jc Sound","label":"gab-1Jc Sound","path":"/packs/Jc Sound.db","entity":"Playlist"},{"name":"gab-1-Kevin Durr","label":"gab-1Kevin Durr","path":"/packs/Kevin Durr.db","entity":"Playlist"},{"name":"gab-1-Leevaudio","label":"gab-1Leevaudio","path":"/packs/Leevaudio.db","entity":"Playlist"},{"name":"gab-1-Levan Nadashvili","label":"gab-1Levan Nadashvili","path":"/packs/Levan Nadashvili.db","entity":"Playlist"},{"name":"gab-1-Matiasmacsd","label":"gab-1Matiasmacsd","path":"/packs/Matiasmacsd.db","entity":"Playlist"},{"name":"gab-1-Mattia Cellotto","label":"gab-1Mattia Cellotto","path":"/packs/Mattia Cellotto.db","entity":"Playlist"},{"name":"gab-1-Mechanical Wave","label":"gab-1Mechanical Wave","path":"/packs/Mechanical Wave.db","entity":"Playlist"},{"name":"gab-1-Michael Garcia","label":"gab-1Michael Garcia","path":"/packs/Michael Garcia.db","entity":"Playlist"},{"name":"gab-1-Mindful Audio","label":"gab-1Mindful Audio","path":"/packs/Mindful Audio.db","entity":"Playlist"},{"name":"gab-1-Mononeshot","label":"gab-1Mononeshot","path":"/packs/Mononeshot.db","entity":"Playlist"},{"name":"gab-1-Monte Sound","label":"gab-1Monte Sound","path":"/packs/Monte Sound.db","entity":"Playlist"},{"name":"gab-1-Noisecreations","label":"gab-1Noisecreations","path":"/packs/Noisecreations.db","entity":"Playlist"},{"name":"gab-1-Pole Position Production","label":"gab-1Pole Position Production","path":"/packs/Pole Position Production.db","entity":"Playlist"},{"name":"gab-1-Qbsound Studio","label":"gab-1Qbsound Studio","path":"/packs/Qbsound Studio.db","entity":"Playlist"},{"name":"gab-1-Sergey Eybog","label":"gab-1Sergey Eybog","path":"/packs/Sergey Eybog.db","entity":"Playlist"},{"name":"gab-1-Shapingwaves","label":"gab-1Shapingwaves","path":"/packs/Shapingwaves.db","entity":"Playlist"},{"name":"gab-1-Shutter Sound","label":"gab-1Shutter Sound","path":"/packs/Shutter Sound.db","entity":"Playlist"},{"name":"gab-1-Sonocaine","label":"gab-1Sonocaine","path":"/packs/Sonocaine.db","entity":"Playlist"},{"name":"gab-1-Sound Ex Machina","label":"gab-1Sound Ex Machina","path":"/packs/Sound Ex Machina.db","entity":"Playlist"},{"name":"gab-1-Soundbankster","label":"gab-1Soundbankster","path":"/packs/Soundbankster.db","entity":"Playlist"},{"name":"gab-1-Soundbits","label":"gab-1Soundbits","path":"/packs/Soundbits.db","entity":"Playlist"},{"name":"gab-1-Soundholder","label":"gab-1Soundholder","path":"/packs/Soundholder.db","entity":"Playlist"},{"name":"gab-1-Soundiron","label":"gab-1Soundiron","path":"/packs/Soundiron.db","entity":"Playlist"},{"name":"gab-1-Soundmorph","label":"gab-1Soundmorph","path":"/packs/Soundmorph.db","entity":"Playlist"},{"name":"gab-1-Soundreorganized","label":"gab-1Soundreorganized","path":"/packs/Soundreorganized.db","entity":"Playlist"},{"name":"gab-1-Sounds Hunter","label":"gab-1Sounds Hunter","path":"/packs/Sounds Hunter.db","entity":"Playlist"},{"name":"gab-1-Stuart Duffield","label":"gab-1Stuart Duffield","path":"/packs/Stuart Duffield.db","entity":"Playlist"},{"name":"gab-1-The Audioville","label":"gab-1The Audioville","path":"/packs/The Audioville.db","entity":"Playlist"},{"name":"gab-1-The Sound Pack Tree","label":"gab-1The Sound Pack Tree","path":"/packs/The Sound Pack Tree.db","entity":"Playlist"},{"name":"gab-1-The Soundcatcher","label":"gab-1The Soundcatcher","path":"/packs/The Soundcatcher.db","entity":"Playlist"},{"name":"gab-1-Timothy Mchugh","label":"gab-1Timothy Mchugh","path":"/packs/Timothy Mchugh.db","entity":"Playlist"},{"name":"gab-1-Ts Sound","label":"gab-1Ts Sound","path":"/packs/Ts Sound.db","entity":"Playlist"}],"url":"https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1","manifest":"https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/master/module.json","download":""}
+{
+  "name": "gAudioBundle-1",
+  "title": "Game Audio Bundle 1",
+  "description": "<p>High-quality sound effects from many of the best sound recordists and designers in the World. Use them personally or commercially without attribution. Sonniss LTD.</p>",
+  "version": "1.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.7.0",
+  "author": "DatDamnZotz [DatDamnZotz#7962]",
+  "packs": [
+    {
+      "name": "Game Audio Pack 1 - 3maze",
+      "label": "Game Audio Pack 1 - 3maze",
+      "path": "/packs/3maze.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Alexander Kopeikin",
+      "label": "Game Audio Pack 1 - Alexander Kopeikin",
+      "path": "/packs/Alexander Kopeikin.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Alexey Sinitsyn",
+      "label": "Game Audio Pack 1 - Alexey Sinitsyn",
+      "path": "/packs/Alexey Sinitsyn.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Audiobeast",
+      "label": "Game Audio Pack 1 - Audiobeast",
+      "path": "/packs/Audiobeast.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Audionym",
+      "label": "Game Audio Pack 1 - Audionym",
+      "path": "/packs/Audionym.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Blik Blinks",
+      "label": "Game Audio Pack 1 - Blik Blinks",
+      "path": "/packs/Blik Blinks.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Bluezone",
+      "label": "Game Audio Pack 1 - Bluezone",
+      "path": "/packs/Bluezone.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Bombay Sonic",
+      "label": "Game Audio Pack 1 - Bombay Sonic",
+      "path": "/packs/Bombay Sonic.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Bottle Rocket Fx",
+      "label": "Game Audio Pack 1 - Bottle Rocket Fx",
+      "path": "/packs/Bottle Rocket Fx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Bryce Raffle Sound",
+      "label": "Game Audio Pack 1 - Bryce Raffle Sound",
+      "path": "/packs/Bryce Raffle Sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Chupapsound",
+      "label": "Game Audio Pack 1 - Chupapsound",
+      "path": "/packs/Chupapsound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Colin Lechner",
+      "label": "Game Audio Pack 1 - Colin Lechner",
+      "path": "/packs/Colin Lechner.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Collected Transients",
+      "label": "Game Audio Pack 1 - Collected Transients",
+      "path": "/packs/Collected Transients.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Detunized",
+      "label": "Game Audio Pack 1 - Detunized",
+      "path": "/packs/Detunized.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Digital Rain Lab",
+      "label": "Game Audio Pack 1 - Digital Rain Lab",
+      "path": "/packs/Digital Rain Lab.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Eiravaein Sound",
+      "label": "Game Audio Pack 1 - Eiravaein Sound",
+      "path": "/packs/Eiravaein Sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Fascinated Sound",
+      "label": "Game Audio Pack 1 - Fascinated Sound",
+      "path": "/packs/Fascinated Sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Filmnoise",
+      "label": "Game Audio Pack 1 - Filmnoise",
+      "path": "/packs/Filmnoise.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Game Audio Factory",
+      "label": "Game Audio Pack 1 - Game Audio Factory",
+      "path": "/packs/Game Audio Factory.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - George Karagioules",
+      "label": "Game Audio Pack 1 - George Karagioules",
+      "path": "/packs/George Karagioules.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Griffinsound",
+      "label": "Game Audio Pack 1 - Griffinsound",
+      "path": "/packs/Griffinsound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Hzandbits",
+      "label": "Game Audio Pack 1 - Hzandbits",
+      "path": "/packs/Hzandbits.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Jc Sound",
+      "label": "Game Audio Pack 1 - Jc Sound",
+      "path": "/packs/Jc Sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Kevin Durr",
+      "label": "Game Audio Pack 1 - Kevin Durr",
+      "path": "/packs/Kevin Durr.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Leevaudio",
+      "label": "Game Audio Pack 1 - Leevaudio",
+      "path": "/packs/Leevaudio.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Levan Nadashvili",
+      "label": "Game Audio Pack 1 - Levan Nadashvili",
+      "path": "/packs/Levan Nadashvili.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Matiasmacsd",
+      "label": "Game Audio Pack 1 - Matiasmacsd",
+      "path": "/packs/Matiasmacsd.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Mattia Cellotto",
+      "label": "Game Audio Pack 1 - Mattia Cellotto",
+      "path": "/packs/Mattia Cellotto.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Mechanical Wave",
+      "label": "Game Audio Pack 1 - Mechanical Wave",
+      "path": "/packs/Mechanical Wave.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Michael Garcia",
+      "label": "Game Audio Pack 1 - Michael Garcia",
+      "path": "/packs/Michael Garcia.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Mindful Audio",
+      "label": "Game Audio Pack 1 - Mindful Audio",
+      "path": "/packs/Mindful Audio.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Mononeshot",
+      "label": "Game Audio Pack 1 - Mononeshot",
+      "path": "/packs/Mononeshot.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Monte Sound",
+      "label": "Game Audio Pack 1 - Monte Sound",
+      "path": "/packs/Monte Sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Noisecreations",
+      "label": "Game Audio Pack 1 - Noisecreations",
+      "path": "/packs/Noisecreations.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Pole Position Production",
+      "label": "Game Audio Pack 1 - Pole Position Production",
+      "path": "/packs/Pole Position Production.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Qbsound Studio",
+      "label": "Game Audio Pack 1 - Qbsound Studio",
+      "path": "/packs/Qbsound Studio.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Sergey Eybog",
+      "label": "Game Audio Pack 1 - Sergey Eybog",
+      "path": "/packs/Sergey Eybog.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Shapingwaves",
+      "label": "Game Audio Pack 1 - Shapingwaves",
+      "path": "/packs/Shapingwaves.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Shutter Sound",
+      "label": "Game Audio Pack 1 - Shutter Sound",
+      "path": "/packs/Shutter Sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Sonocaine",
+      "label": "Game Audio Pack 1 - Sonocaine",
+      "path": "/packs/Sonocaine.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Sound Ex Machina",
+      "label": "Game Audio Pack 1 - Sound Ex Machina",
+      "path": "/packs/Sound Ex Machina.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Soundbankster",
+      "label": "Game Audio Pack 1 - Soundbankster",
+      "path": "/packs/Soundbankster.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Soundbits",
+      "label": "Game Audio Pack 1 - Soundbits",
+      "path": "/packs/Soundbits.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Soundholder",
+      "label": "Game Audio Pack 1 - Soundholder",
+      "path": "/packs/Soundholder.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Soundiron",
+      "label": "Game Audio Pack 1 - Soundiron",
+      "path": "/packs/Soundiron.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Soundmorph",
+      "label": "Game Audio Pack 1 - Soundmorph",
+      "path": "/packs/Soundmorph.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Soundreorganized",
+      "label": "Game Audio Pack 1 - Soundreorganized",
+      "path": "/packs/Soundreorganized.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Sounds Hunter",
+      "label": "Game Audio Pack 1 - Sounds Hunter",
+      "path": "/packs/Sounds Hunter.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Stuart Duffield",
+      "label": "Game Audio Pack 1 - Stuart Duffield",
+      "path": "/packs/Stuart Duffield.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - The Audioville",
+      "label": "Game Audio Pack 1 - The Audioville",
+      "path": "/packs/The Audioville.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - The Sound Pack Tree",
+      "label": "Game Audio Pack 1 - The Sound Pack Tree",
+      "path": "/packs/The Sound Pack Tree.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - The Soundcatcher",
+      "label": "Game Audio Pack 1 - The Soundcatcher",
+      "path": "/packs/The Soundcatcher.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Timothy Mchugh",
+      "label": "Game Audio Pack 1 - Timothy Mchugh",
+      "path": "/packs/Timothy Mchugh.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Pack 1 - Ts Sound",
+      "label": "Game Audio Pack 1 - Ts Sound",
+      "path": "/packs/Ts Sound.db",
+      "entity": "Playlist"
+    }
+  ],
+  "url": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1",
+  "manifest": "https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/master/module.json",
+  "download": ""
+}
