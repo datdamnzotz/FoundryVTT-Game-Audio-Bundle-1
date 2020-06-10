@@ -1,338 +1,338 @@
 {
   "name": "gAudioBundle-1",
-  "title": "Game Audio Bundle 1",
+  "title": "Game Audio Bundle 2",
   "description": "<p>High-quality sound effects from many of the best sound recordists and designers in the World. Use them personally or commercially without attribution. Sonniss LTD.</p>",
-  "version": "1.0",
+  "version": "1.1",
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.7.0",
   "author": "DatDamnZotz [DatDamnZotz#7962]",
   "packs": [
     {
-      "name": "Game Audio Pack 1 - 3maze",
-      "label": "Game Audio Pack 1 - 3maze",
+      "name": "Game Audio Bundle 1 - 3maze",
+      "label": "Game Audio Bundle 1 - 3maze",
       "path": "/packs/3maze.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Alexander Kopeikin",
-      "label": "Game Audio Pack 1 - Alexander Kopeikin",
-      "path": "/packs/Alexander Kopeikin.db",
+      "name": "Game Audio Bundle 1 - Alexander Kopeikin",
+      "label": "Game Audio Bundle 1 - Alexander Kopeikin",
+      "path": "/packs/alexander-kopeikin.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Alexey Sinitsyn",
-      "label": "Game Audio Pack 1 - Alexey Sinitsyn",
-      "path": "/packs/Alexey Sinitsyn.db",
+      "name": "Game Audio Bundle 1 - Alexey Sinitsyn",
+      "label": "Game Audio Bundle 1 - Alexey Sinitsyn",
+      "path": "/packs/alexey-sinitsyn.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Audiobeast",
-      "label": "Game Audio Pack 1 - Audiobeast",
-      "path": "/packs/Audiobeast.db",
+      "name": "Game Audio Bundle 1 - Audiobeast",
+      "label": "Game Audio Bundle 1 - Audiobeast",
+      "path": "/packs/audiobeast.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Audionym",
-      "label": "Game Audio Pack 1 - Audionym",
-      "path": "/packs/Audionym.db",
+      "name": "Game Audio Bundle 1 - Audionym",
+      "label": "Game Audio Bundle 1 - Audionym",
+      "path": "/packs/audionym.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Blik Blinks",
-      "label": "Game Audio Pack 1 - Blik Blinks",
-      "path": "/packs/Blik Blinks.db",
+      "name": "Game Audio Bundle 1 - Blik Blinks",
+      "label": "Game Audio Bundle 1 - Blik Blinks",
+      "path": "/packs/blik-blinks.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Bluezone",
-      "label": "Game Audio Pack 1 - Bluezone",
-      "path": "/packs/Bluezone.db",
+      "name": "Game Audio Bundle 1 - Bluezone",
+      "label": "Game Audio Bundle 1 - Bluezone",
+      "path": "/packs/bluezone.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Bombay Sonic",
-      "label": "Game Audio Pack 1 - Bombay Sonic",
-      "path": "/packs/Bombay Sonic.db",
+      "name": "Game Audio Bundle 1 - Bombay Sonic",
+      "label": "Game Audio Bundle 1 - Bombay Sonic",
+      "path": "/packs/bombay-sonic.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Bottle Rocket Fx",
-      "label": "Game Audio Pack 1 - Bottle Rocket Fx",
-      "path": "/packs/Bottle Rocket Fx.db",
+      "name": "Game Audio Bundle 1 - Bottle Rocket Fx",
+      "label": "Game Audio Bundle 1 - Bottle Rocket Fx",
+      "path": "/packs/bottle-rocket-fx.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Bryce Raffle Sound",
-      "label": "Game Audio Pack 1 - Bryce Raffle Sound",
-      "path": "/packs/Bryce Raffle Sound.db",
+      "name": "Game Audio Bundle 1 - Bryce Raffle Sound",
+      "label": "Game Audio Bundle 1 - Bryce Raffle Sound",
+      "path": "/packs/bryce-raffle-sound.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Chupapsound",
-      "label": "Game Audio Pack 1 - Chupapsound",
-      "path": "/packs/Chupapsound.db",
+      "name": "Game Audio Bundle 1 - Chupapsound",
+      "label": "Game Audio Bundle 1 - Chupapsound",
+      "path": "/packs/chupapsound.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Colin Lechner",
-      "label": "Game Audio Pack 1 - Colin Lechner",
-      "path": "/packs/Colin Lechner.db",
+      "name": "Game Audio Bundle 1 - Colin Lechner",
+      "label": "Game Audio Bundle 1 - Colin Lechner",
+      "path": "/packs/colin-lechner.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Collected Transients",
-      "label": "Game Audio Pack 1 - Collected Transients",
-      "path": "/packs/Collected Transients.db",
+      "name": "Game Audio Bundle 1 - Collected Transients",
+      "label": "Game Audio Bundle 1 - Collected Transients",
+      "path": "/packs/collected-transients.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Detunized",
-      "label": "Game Audio Pack 1 - Detunized",
-      "path": "/packs/Detunized.db",
+      "name": "Game Audio Bundle 1 - Detunized",
+      "label": "Game Audio Bundle 1 - Detunized",
+      "path": "/packs/detunized.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Digital Rain Lab",
-      "label": "Game Audio Pack 1 - Digital Rain Lab",
-      "path": "/packs/Digital Rain Lab.db",
+      "name": "Game Audio Bundle 1 - Digital Rain Lab",
+      "label": "Game Audio Bundle 1 - Digital Rain Lab",
+      "path": "/packs/digital-rain-lab.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Eiravaein Sound",
-      "label": "Game Audio Pack 1 - Eiravaein Sound",
-      "path": "/packs/Eiravaein Sound.db",
+      "name": "Game Audio Bundle 1 - Eiravaein Sound",
+      "label": "Game Audio Bundle 1 - Eiravaein Sound",
+      "path": "/packs/eiravaein-sound.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Fascinated Sound",
-      "label": "Game Audio Pack 1 - Fascinated Sound",
-      "path": "/packs/Fascinated Sound.db",
+      "name": "Game Audio Bundle 1 - Fascinated Sound",
+      "label": "Game Audio Bundle 1 - Fascinated Sound",
+      "path": "/packs/fascinated-sound.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Filmnoise",
-      "label": "Game Audio Pack 1 - Filmnoise",
-      "path": "/packs/Filmnoise.db",
+      "name": "Game Audio Bundle 1 - Filmnoise",
+      "label": "Game Audio Bundle 1 - Filmnoise",
+      "path": "/packs/filmnoise.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Game Audio Factory",
-      "label": "Game Audio Pack 1 - Game Audio Factory",
-      "path": "/packs/Game Audio Factory.db",
+      "name": "Game Audio Bundle 1 - Game Audio Factory",
+      "label": "Game Audio Bundle 1 - Game Audio Factory",
+      "path": "/packs/game-audio-factory.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - George Karagioules",
-      "label": "Game Audio Pack 1 - George Karagioules",
-      "path": "/packs/George Karagioules.db",
+      "name": "Game Audio Bundle 1 - George Karagioules",
+      "label": "Game Audio Bundle 1 - George Karagioules",
+      "path": "/packs/george-karagioules.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Griffinsound",
-      "label": "Game Audio Pack 1 - Griffinsound",
-      "path": "/packs/Griffinsound.db",
+      "name": "Game Audio Bundle 1 - Griffinsound",
+      "label": "Game Audio Bundle 1 - Griffinsound",
+      "path": "/packs/griffinsound.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Hzandbits",
-      "label": "Game Audio Pack 1 - Hzandbits",
-      "path": "/packs/Hzandbits.db",
+      "name": "Game Audio Bundle 1 - Hzandbits",
+      "label": "Game Audio Bundle 1 - Hzandbits",
+      "path": "/packs/hzandbits.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Jc Sound",
-      "label": "Game Audio Pack 1 - Jc Sound",
-      "path": "/packs/Jc Sound.db",
+      "name": "Game Audio Bundle 1 - Jc Sound",
+      "label": "Game Audio Bundle 1 - Jc Sound",
+      "path": "/packs/jc-sound.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Kevin Durr",
-      "label": "Game Audio Pack 1 - Kevin Durr",
-      "path": "/packs/Kevin Durr.db",
+      "name": "Game Audio Bundle 1 - Kevin Durr",
+      "label": "Game Audio Bundle 1 - Kevin Durr",
+      "path": "/packs/kevin-durr.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Leevaudio",
-      "label": "Game Audio Pack 1 - Leevaudio",
-      "path": "/packs/Leevaudio.db",
+      "name": "Game Audio Bundle 1 - Leevaudio",
+      "label": "Game Audio Bundle 1 - Leevaudio",
+      "path": "/packs/leevaudio.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Levan Nadashvili",
-      "label": "Game Audio Pack 1 - Levan Nadashvili",
-      "path": "/packs/Levan Nadashvili.db",
+      "name": "Game Audio Bundle 1 - Levan Nadashvili",
+      "label": "Game Audio Bundle 1 - Levan Nadashvili",
+      "path": "/packs/levan-nadashvili.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Matiasmacsd",
-      "label": "Game Audio Pack 1 - Matiasmacsd",
-      "path": "/packs/Matiasmacsd.db",
+      "name": "Game Audio Bundle 1 - Matiasmacsd",
+      "label": "Game Audio Bundle 1 - Matiasmacsd",
+      "path": "/packs/matiasmacsd.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Mattia Cellotto",
-      "label": "Game Audio Pack 1 - Mattia Cellotto",
-      "path": "/packs/Mattia Cellotto.db",
+      "name": "Game Audio Bundle 1 - Mattia Cellotto",
+      "label": "Game Audio Bundle 1 - Mattia Cellotto",
+      "path": "/packs/mattia-cellotto.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Mechanical Wave",
-      "label": "Game Audio Pack 1 - Mechanical Wave",
-      "path": "/packs/Mechanical Wave.db",
+      "name": "Game Audio Bundle 1 - Mechanical Wave",
+      "label": "Game Audio Bundle 1 - Mechanical Wave",
+      "path": "/packs/mechanical-wave.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Michael Garcia",
-      "label": "Game Audio Pack 1 - Michael Garcia",
-      "path": "/packs/Michael Garcia.db",
+      "name": "Game Audio Bundle 1 - Michael Garcia",
+      "label": "Game Audio Bundle 1 - Michael Garcia",
+      "path": "/packs/michael-garcia.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Mindful Audio",
-      "label": "Game Audio Pack 1 - Mindful Audio",
-      "path": "/packs/Mindful Audio.db",
+      "name": "Game Audio Bundle 1 - Mindful Audio",
+      "label": "Game Audio Bundle 1 - Mindful Audio",
+      "path": "/packs/mindful-audio.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Mononeshot",
-      "label": "Game Audio Pack 1 - Mononeshot",
-      "path": "/packs/Mononeshot.db",
+      "name": "Game Audio Bundle 1 - Mononeshot",
+      "label": "Game Audio Bundle 1 - Mononeshot",
+      "path": "/packs/mononeshot.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Monte Sound",
-      "label": "Game Audio Pack 1 - Monte Sound",
-      "path": "/packs/Monte Sound.db",
+      "name": "Game Audio Bundle 1 - Monte Sound",
+      "label": "Game Audio Bundle 1 - Monte Sound",
+      "path": "/packs/monte-sound.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Noisecreations",
-      "label": "Game Audio Pack 1 - Noisecreations",
-      "path": "/packs/Noisecreations.db",
+      "name": "Game Audio Bundle 1 - Noisecreations",
+      "label": "Game Audio Bundle 1 - Noisecreations",
+      "path": "/packs/noisecreations.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Pole Position Production",
-      "label": "Game Audio Pack 1 - Pole Position Production",
-      "path": "/packs/Pole Position Production.db",
+      "name": "Game Audio Bundle 1 - Pole Position Production",
+      "label": "Game Audio Bundle 1 - Pole Position Production",
+      "path": "/packs/pole-position-production.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Qbsound Studio",
-      "label": "Game Audio Pack 1 - Qbsound Studio",
-      "path": "/packs/Qbsound Studio.db",
+      "name": "Game Audio Bundle 1 - Qbsound Studio",
+      "label": "Game Audio Bundle 1 - Qbsound Studio",
+      "path": "/packs/qbsound-studio.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Sergey Eybog",
-      "label": "Game Audio Pack 1 - Sergey Eybog",
-      "path": "/packs/Sergey Eybog.db",
+      "name": "Game Audio Bundle 1 - Sergey Eybog",
+      "label": "Game Audio Bundle 1 - Sergey Eybog",
+      "path": "/packs/sergey-eybog.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Shapingwaves",
-      "label": "Game Audio Pack 1 - Shapingwaves",
-      "path": "/packs/Shapingwaves.db",
+      "name": "Game Audio Bundle 1 - Shapingwaves",
+      "label": "Game Audio Bundle 1 - Shapingwaves",
+      "path": "/packs/shapingwaves.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Shutter Sound",
-      "label": "Game Audio Pack 1 - Shutter Sound",
-      "path": "/packs/Shutter Sound.db",
+      "name": "Game Audio Bundle 1 - Shutter Sound",
+      "label": "Game Audio Bundle 1 - Shutter Sound",
+      "path": "/packs/shutter-sound.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Sonocaine",
-      "label": "Game Audio Pack 1 - Sonocaine",
-      "path": "/packs/Sonocaine.db",
+      "name": "Game Audio Bundle 1 - Sonocaine",
+      "label": "Game Audio Bundle 1 - Sonocaine",
+      "path": "/packs/sonocaine.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Sound Ex Machina",
-      "label": "Game Audio Pack 1 - Sound Ex Machina",
-      "path": "/packs/Sound Ex Machina.db",
+      "name": "Game Audio Bundle 1 - Sound Ex Machina",
+      "label": "Game Audio Bundle 1 - Sound Ex Machina",
+      "path": "/packs/sound-ex-machina.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Soundbankster",
-      "label": "Game Audio Pack 1 - Soundbankster",
-      "path": "/packs/Soundbankster.db",
+      "name": "Game Audio Bundle 1 - Soundbankster",
+      "label": "Game Audio Bundle 1 - Soundbankster",
+      "path": "/packs/soundbankster.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Soundbits",
-      "label": "Game Audio Pack 1 - Soundbits",
-      "path": "/packs/Soundbits.db",
+      "name": "Game Audio Bundle 1 - Soundbits",
+      "label": "Game Audio Bundle 1 - Soundbits",
+      "path": "/packs/soundbits.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Soundholder",
-      "label": "Game Audio Pack 1 - Soundholder",
-      "path": "/packs/Soundholder.db",
+      "name": "Game Audio Bundle 1 - Soundholder",
+      "label": "Game Audio Bundle 1 - Soundholder",
+      "path": "/packs/soundholder.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Soundiron",
-      "label": "Game Audio Pack 1 - Soundiron",
-      "path": "/packs/Soundiron.db",
+      "name": "Game Audio Bundle 1 - Soundiron",
+      "label": "Game Audio Bundle 1 - Soundiron",
+      "path": "/packs/soundiron.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Soundmorph",
-      "label": "Game Audio Pack 1 - Soundmorph",
-      "path": "/packs/Soundmorph.db",
+      "name": "Game Audio Bundle 1 - Soundmorph",
+      "label": "Game Audio Bundle 1 - Soundmorph",
+      "path": "/packs/soundmorph.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Soundreorganized",
-      "label": "Game Audio Pack 1 - Soundreorganized",
-      "path": "/packs/Soundreorganized.db",
+      "name": "Game Audio Bundle 1 - Soundreorganized",
+      "label": "Game Audio Bundle 1 - Soundreorganized",
+      "path": "/packs/soundreorganized.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Sounds Hunter",
-      "label": "Game Audio Pack 1 - Sounds Hunter",
-      "path": "/packs/Sounds Hunter.db",
+      "name": "Game Audio Bundle 1 - Sounds Hunter",
+      "label": "Game Audio Bundle 1 - Sounds Hunter",
+      "path": "/packs/sounds-hunter.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Stuart Duffield",
-      "label": "Game Audio Pack 1 - Stuart Duffield",
-      "path": "/packs/Stuart Duffield.db",
+      "name": "Game Audio Bundle 1 - Stuart Duffield",
+      "label": "Game Audio Bundle 1 - Stuart Duffield",
+      "path": "/packs/stuart-duffield.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - The Audioville",
-      "label": "Game Audio Pack 1 - The Audioville",
-      "path": "/packs/The Audioville.db",
+      "name": "Game Audio Bundle 1 - The Audioville",
+      "label": "Game Audio Bundle 1 - The Audioville",
+      "path": "/packs/the-audioville.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - The Sound Pack Tree",
-      "label": "Game Audio Pack 1 - The Sound Pack Tree",
-      "path": "/packs/The Sound Pack Tree.db",
+      "name": "Game Audio Bundle 1 - The Sound Pack Tree",
+      "label": "Game Audio Bundle 1 - The Sound Pack Tree",
+      "path": "/packs/the-sound-pack-tree.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - The Soundcatcher",
-      "label": "Game Audio Pack 1 - The Soundcatcher",
-      "path": "/packs/The Soundcatcher.db",
+      "name": "Game Audio Bundle 1 - The Soundcatcher",
+      "label": "Game Audio Bundle 1 - The Soundcatcher",
+      "path": "/packs/the-soundcatcher.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Timothy Mchugh",
-      "label": "Game Audio Pack 1 - Timothy Mchugh",
-      "path": "/packs/Timothy Mchugh.db",
+      "name": "Game Audio Bundle 1 - Timothy Mchugh",
+      "label": "Game Audio Bundle 1 - Timothy Mchugh",
+      "path": "/packs/timothy-mchugh.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Pack 1 - Ts Sound",
-      "label": "Game Audio Pack 1 - Ts Sound",
-      "path": "/packs/Ts Sound.db",
+      "name": "Game Audio Bundle 1 - Ts Sound",
+      "label": "Game Audio Bundle 1 - Ts Sound",
+      "path": "/packs/ts-sound.db",
       "entity": "Playlist"
     }
   ],
   "url": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1",
   "manifest": "https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/master/module.json",
-  "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/releases/download/v1.0/v1.0.zip"
+  "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-2/releases/download/v1.1/v1.1.zip"
 }
