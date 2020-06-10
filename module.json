@@ -1,6 +1,6 @@
 {
   "name": "gAudioBundle-1",
-  "title": "Game Audio Bundle 2",
+  "title": "Game Audio Bundle 1",
   "description": "<p>High-quality sound effects from many of the best sound recordists and designers in the World. Use them personally or commercially without attribution. Sonniss LTD.</p>",
   "version": "1.1",
   "minimumCoreVersion": "0.5.0",
@@ -334,5 +334,5 @@
   ],
   "url": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1",
   "manifest": "https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/master/module.json",
-  "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-2/releases/download/v1.1/v1.1.zip"
+  "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/releases/download/v1.1/v1.1.zip"
 }
