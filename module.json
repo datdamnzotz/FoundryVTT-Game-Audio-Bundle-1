@@ -8,327 +8,903 @@
   "author": "DatDamnZotz [DatDamnZotz#7962]",
   "packs": [
     {
-      "name": "Game Audio Bundle 1 - 3maze",
-      "label": "Game Audio Bundle 1 - 3maze",
-      "path": "/packs/3maze.db",
+      "name": "Game Audio Bundle 1 - 1960 Cadillac Deville",
+      "label": "Game Audio Bundle 1 - 1960 Cadillac Deville",
+      "path": "/packs/1960-cadillac-deville.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Alexander Kopeikin",
-      "label": "Game Audio Bundle 1 - Alexander Kopeikin",
-      "path": "/packs/alexander-kopeikin.db",
+      "name": "Game Audio Bundle 1 - 2007 Mini Cooper S",
+      "label": "Game Audio Bundle 1 - 2007 Mini Cooper S",
+      "path": "/packs/2007-mini-cooper-s.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Alexey Sinitsyn",
-      "label": "Game Audio Bundle 1 - Alexey Sinitsyn",
-      "path": "/packs/alexey-sinitsyn.db",
+      "name": "Game Audio Bundle 1 - 2017 Triumph Street Twin 900 Cc Motorcycle",
+      "label": "Game Audio Bundle 1 - 2017 Triumph Street Twin 900 Cc Motorcycle",
+      "path": "/packs/2017-triumph-street-twin-900-cc-motorcycle.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Audiobeast",
-      "label": "Game Audio Bundle 1 - Audiobeast",
-      "path": "/packs/audiobeast.db",
+      "name": "Game Audio Bundle 1 - 365 Sfx",
+      "label": "Game Audio Bundle 1 - 365 Sfx",
+      "path": "/packs/365-sfx.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Audionym",
-      "label": "Game Audio Bundle 1 - Audionym",
-      "path": "/packs/audionym.db",
+      "name": "Game Audio Bundle 1 - 3d Printer Lulzbot Mini",
+      "label": "Game Audio Bundle 1 - 3d Printer Lulzbot Mini",
+      "path": "/packs/3d-printer-lulzbot-mini.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Blik Blinks",
-      "label": "Game Audio Bundle 1 - Blik Blinks",
-      "path": "/packs/blik-blinks.db",
+      "name": "Game Audio Bundle 1 - 6monsters",
+      "label": "Game Audio Bundle 1 - 6monsters",
+      "path": "/packs/6monsters.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Bluezone",
-      "label": "Game Audio Bundle 1 - Bluezone",
-      "path": "/packs/bluezone.db",
+      "name": "Game Audio Bundle 1 - 8 Bit Games",
+      "label": "Game Audio Bundle 1 - 8 Bit Games",
+      "path": "/packs/8-bit-games.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Bombay Sonic",
-      "label": "Game Audio Bundle 1 - Bombay Sonic",
-      "path": "/packs/bombay-sonic.db",
+      "name": "Game Audio Bundle 1 - Abstract Interior Tones",
+      "label": "Game Audio Bundle 1 - Abstract Interior Tones",
+      "path": "/packs/abstract-interior-tones.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Bottle Rocket Fx",
-      "label": "Game Audio Bundle 1 - Bottle Rocket Fx",
-      "path": "/packs/bottle-rocket-fx.db",
+      "name": "Game Audio Bundle 1 - Abstract Sound Design",
+      "label": "Game Audio Bundle 1 - Abstract Sound Design",
+      "path": "/packs/abstract-sound-design.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Bryce Raffle Sound",
-      "label": "Game Audio Bundle 1 - Bryce Raffle Sound",
-      "path": "/packs/bryce-raffle-sound.db",
+      "name": "Game Audio Bundle 1 - Abstract Spaceships",
+      "label": "Game Audio Bundle 1 - Abstract Spaceships",
+      "path": "/packs/abstract-spaceships.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Chupapsound",
-      "label": "Game Audio Bundle 1 - Chupapsound",
-      "path": "/packs/chupapsound.db",
+      "name": "Game Audio Bundle 1 - Ac Guitar Fx",
+      "label": "Game Audio Bundle 1 - Ac Guitar Fx",
+      "path": "/packs/ac-guitar-fx.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Colin Lechner",
-      "label": "Game Audio Bundle 1 - Colin Lechner",
-      "path": "/packs/colin-lechner.db",
+      "name": "Game Audio Bundle 1 - Activation Ui and Hud Sound Effects Library",
+      "label": "Game Audio Bundle 1 - Activation Ui and Hud Sound Effects Library",
+      "path": "/packs/activation-ui-and-hud-sound-effects-library.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Collected Transients",
-      "label": "Game Audio Bundle 1 - Collected Transients",
-      "path": "/packs/collected-transients.db",
+      "name": "Game Audio Bundle 1 - Affix",
+      "label": "Game Audio Bundle 1 - Affix",
+      "path": "/packs/affix.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Detunized",
-      "label": "Game Audio Bundle 1 - Detunized",
-      "path": "/packs/detunized.db",
+      "name": "Game Audio Bundle 1 - Agusta A109",
+      "label": "Game Audio Bundle 1 - Agusta A109",
+      "path": "/packs/agusta-a109.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Digital Rain Lab",
-      "label": "Game Audio Bundle 1 - Digital Rain Lab",
-      "path": "/packs/digital-rain-lab.db",
+      "name": "Game Audio Bundle 1 - Air Travel",
+      "label": "Game Audio Bundle 1 - Air Travel",
+      "path": "/packs/air-travel.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Eiravaein Sound",
-      "label": "Game Audio Bundle 1 - Eiravaein Sound",
-      "path": "/packs/eiravaein-sound.db",
+      "name": "Game Audio Bundle 1 - Airplanes And Airports Walla And Ambience",
+      "label": "Game Audio Bundle 1 - Airplanes And Airports Walla And Ambience",
+      "path": "/packs/airplanes-and-airports-walla-and-ambience.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Fascinated Sound",
-      "label": "Game Audio Bundle 1 - Fascinated Sound",
-      "path": "/packs/fascinated-sound.db",
+      "name": "Game Audio Bundle 1 - Airy Whooshes",
+      "label": "Game Audio Bundle 1 - Airy Whooshes",
+      "path": "/packs/airy-whooshes.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Filmnoise",
-      "label": "Game Audio Bundle 1 - Filmnoise",
-      "path": "/packs/filmnoise.db",
+      "name": "Game Audio Bundle 1 - Alarms",
+      "label": "Game Audio Bundle 1 - Alarms",
+      "path": "/packs/alarms.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Game Audio Factory",
-      "label": "Game Audio Bundle 1 - Game Audio Factory",
-      "path": "/packs/game-audio-factory.db",
+      "name": "Game Audio Bundle 1 - Alfa Romeo",
+      "label": "Game Audio Bundle 1 - Alfa Romeo",
+      "path": "/packs/alfa-romeo.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - George Karagioules",
-      "label": "Game Audio Bundle 1 - George Karagioules",
-      "path": "/packs/george-karagioules.db",
+      "name": "Game Audio Bundle 1 - Alien Atmospheres",
+      "label": "Game Audio Bundle 1 - Alien Atmospheres",
+      "path": "/packs/alien-atmospheres.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Griffinsound",
-      "label": "Game Audio Bundle 1 - Griffinsound",
-      "path": "/packs/griffinsound.db",
+      "name": "Game Audio Bundle 1 - Alien Spacecraft Sound Effects",
+      "label": "Game Audio Bundle 1 - Alien Spacecraft Sound Effects",
+      "path": "/packs/alien-spacecraft-sound-effects.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Hzandbits",
-      "label": "Game Audio Bundle 1 - Hzandbits",
-      "path": "/packs/hzandbits.db",
+      "name": "Game Audio Bundle 1 - Alien Voices",
+      "label": "Game Audio Bundle 1 - Alien Voices",
+      "path": "/packs/alien-voices.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Jc Sound",
-      "label": "Game Audio Bundle 1 - Jc Sound",
-      "path": "/packs/jc-sound.db",
+      "name": "Game Audio Bundle 1 - Amaya Vegetable Madness",
+      "label": "Game Audio Bundle 1 - Amaya Vegetable Madness",
+      "path": "/packs/amaya-vegetable-madness.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Kevin Durr",
-      "label": "Game Audio Bundle 1 - Kevin Durr",
-      "path": "/packs/kevin-durr.db",
+      "name": "Game Audio Bundle 1 - Ambiences",
+      "label": "Game Audio Bundle 1 - Ambiences",
+      "path": "/packs/ambiences.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Leevaudio",
-      "label": "Game Audio Bundle 1 - Leevaudio",
-      "path": "/packs/leevaudio.db",
+      "name": "Game Audio Bundle 1 - Ambiences Abstract",
+      "label": "Game Audio Bundle 1 - Ambiences Abstract",
+      "path": "/packs/ambiences-abstract.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Levan Nadashvili",
-      "label": "Game Audio Bundle 1 - Levan Nadashvili",
-      "path": "/packs/levan-nadashvili.db",
+      "name": "Game Audio Bundle 1 - Ambiences Alien Planet And Sound Effects",
+      "label": "Game Audio Bundle 1 - Ambiences Alien Planet And Sound Effects",
+      "path": "/packs/ambiences-alien-planet-and-sound-effects.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Matiasmacsd",
-      "label": "Game Audio Bundle 1 - Matiasmacsd",
-      "path": "/packs/matiasmacsd.db",
+      "name": "Game Audio Bundle 1 - Ambiences Amsterdam",
+      "label": "Game Audio Bundle 1 - Ambiences Amsterdam",
+      "path": "/packs/ambiences-amsterdam.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Mattia Cellotto",
-      "label": "Game Audio Bundle 1 - Mattia Cellotto",
-      "path": "/packs/mattia-cellotto.db",
+      "name": "Game Audio Bundle 1 - Ambiences Amusement Park",
+      "label": "Game Audio Bundle 1 - Ambiences Amusement Park",
+      "path": "/packs/ambiences-amusement-park.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Mechanical Wave",
-      "label": "Game Audio Bundle 1 - Mechanical Wave",
-      "path": "/packs/mechanical-wave.db",
+      "name": "Game Audio Bundle 1 - Ambiences Ans",
+      "label": "Game Audio Bundle 1 - Ambiences Ans",
+      "path": "/packs/ambiences-ans.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Michael Garcia",
-      "label": "Game Audio Bundle 1 - Michael Garcia",
-      "path": "/packs/michael-garcia.db",
+      "name": "Game Audio Bundle 1 - Ambiences Authentic Thailand Sfx Vol 4",
+      "label": "Game Audio Bundle 1 - Ambiences Authentic Thailand Sfx Vol 4",
+      "path": "/packs/ambiences-authentic-thailand-sfx-vol-4.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Mindful Audio",
-      "label": "Game Audio Bundle 1 - Mindful Audio",
-      "path": "/packs/mindful-audio.db",
+      "name": "Game Audio Bundle 1 - Ambiences Banaue Rice Terraces",
+      "label": "Game Audio Bundle 1 - Ambiences Banaue Rice Terraces",
+      "path": "/packs/ambiences-banaue-rice-terraces.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Mononeshot",
-      "label": "Game Audio Bundle 1 - Mononeshot",
-      "path": "/packs/mononeshot.db",
+      "name": "Game Audio Bundle 1 - Ambiences Bolivia Desert Vol1",
+      "label": "Game Audio Bundle 1 - Ambiences Bolivia Desert Vol1",
+      "path": "/packs/ambiences-bolivia-desert-vol1.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Monte Sound",
-      "label": "Game Audio Bundle 1 - Monte Sound",
-      "path": "/packs/monte-sound.db",
+      "name": "Game Audio Bundle 1 - Ambiences Bolivia Jungle Vol1",
+      "label": "Game Audio Bundle 1 - Ambiences Bolivia Jungle Vol1",
+      "path": "/packs/ambiences-bolivia-jungle-vol1.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Noisecreations",
-      "label": "Game Audio Bundle 1 - Noisecreations",
-      "path": "/packs/noisecreations.db",
+      "name": "Game Audio Bundle 1 - Ambiences Bolivia Nature Vol1",
+      "label": "Game Audio Bundle 1 - Ambiences Bolivia Nature Vol1",
+      "path": "/packs/ambiences-bolivia-nature-vol1.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Pole Position Production",
-      "label": "Game Audio Bundle 1 - Pole Position Production",
-      "path": "/packs/pole-position-production.db",
+      "name": "Game Audio Bundle 1 - Ambiences Bolivia Nature Vol2",
+      "label": "Game Audio Bundle 1 - Ambiences Bolivia Nature Vol2",
+      "path": "/packs/ambiences-bolivia-nature-vol2.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Qbsound Studio",
-      "label": "Game Audio Bundle 1 - Qbsound Studio",
-      "path": "/packs/qbsound-studio.db",
+      "name": "Game Audio Bundle 1 - Ambiences Bora Wind European Local Wind",
+      "label": "Game Audio Bundle 1 - Ambiences Bora Wind European Local Wind",
+      "path": "/packs/ambiences-bora-wind-european-local-wind.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Sergey Eybog",
-      "label": "Game Audio Bundle 1 - Sergey Eybog",
-      "path": "/packs/sergey-eybog.db",
+      "name": "Game Audio Bundle 1 - Ambiences Central Florida Forest",
+      "label": "Game Audio Bundle 1 - Ambiences Central Florida Forest",
+      "path": "/packs/ambiences-central-florida-forest.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Shapingwaves",
-      "label": "Game Audio Bundle 1 - Shapingwaves",
-      "path": "/packs/shapingwaves.db",
+      "name": "Game Audio Bundle 1 - Ambiences Cinematic",
+      "label": "Game Audio Bundle 1 - Ambiences Cinematic",
+      "path": "/packs/ambiences-cinematic.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Shutter Sound",
-      "label": "Game Audio Bundle 1 - Shutter Sound",
-      "path": "/packs/shutter-sound.db",
+      "name": "Game Audio Bundle 1 - Ambiences Colombia Caribbean Coast",
+      "label": "Game Audio Bundle 1 - Ambiences Colombia Caribbean Coast",
+      "path": "/packs/ambiences-colombia-caribbean-coast.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Sonocaine",
-      "label": "Game Audio Bundle 1 - Sonocaine",
-      "path": "/packs/sonocaine.db",
+      "name": "Game Audio Bundle 1 - Ambiences Construction",
+      "label": "Game Audio Bundle 1 - Ambiences Construction",
+      "path": "/packs/ambiences-construction.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Sound Ex Machina",
-      "label": "Game Audio Bundle 1 - Sound Ex Machina",
-      "path": "/packs/sound-ex-machina.db",
+      "name": "Game Audio Bundle 1 - Ambiences Distant City",
+      "label": "Game Audio Bundle 1 - Ambiences Distant City",
+      "path": "/packs/ambiences-distant-city.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Soundbankster",
-      "label": "Game Audio Bundle 1 - Soundbankster",
-      "path": "/packs/soundbankster.db",
+      "name": "Game Audio Bundle 1 - Ambiences Dock And Sfx",
+      "label": "Game Audio Bundle 1 - Ambiences Dock And Sfx",
+      "path": "/packs/ambiences-dock-and-sfx.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Soundbits",
-      "label": "Game Audio Bundle 1 - Soundbits",
-      "path": "/packs/soundbits.db",
+      "name": "Game Audio Bundle 1 - Ambiences European",
+      "label": "Game Audio Bundle 1 - Ambiences European",
+      "path": "/packs/ambiences-european.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Soundholder",
-      "label": "Game Audio Bundle 1 - Soundholder",
-      "path": "/packs/soundholder.db",
+      "name": "Game Audio Bundle 1 - Ambiences Hockenheimring",
+      "label": "Game Audio Bundle 1 - Ambiences Hockenheimring",
+      "path": "/packs/ambiences-hockenheimring.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Soundiron",
-      "label": "Game Audio Bundle 1 - Soundiron",
-      "path": "/packs/soundiron.db",
+      "name": "Game Audio Bundle 1 - Ambiences Industrial",
+      "label": "Game Audio Bundle 1 - Ambiences Industrial",
+      "path": "/packs/ambiences-industrial.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Soundmorph",
-      "label": "Game Audio Bundle 1 - Soundmorph",
-      "path": "/packs/soundmorph.db",
+      "name": "Game Audio Bundle 1 - Ambiences Kurdistan",
+      "label": "Game Audio Bundle 1 - Ambiences Kurdistan",
+      "path": "/packs/ambiences-kurdistan.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Soundreorganized",
-      "label": "Game Audio Bundle 1 - Soundreorganized",
-      "path": "/packs/soundreorganized.db",
+      "name": "Game Audio Bundle 1 - Ambiences Lisbon",
+      "label": "Game Audio Bundle 1 - Ambiences Lisbon",
+      "path": "/packs/ambiences-lisbon.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Sounds Hunter",
-      "label": "Game Audio Bundle 1 - Sounds Hunter",
-      "path": "/packs/sounds-hunter.db",
+      "name": "Game Audio Bundle 1 - Ambiences Natural",
+      "label": "Game Audio Bundle 1 - Ambiences Natural",
+      "path": "/packs/ambiences-natural.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Stuart Duffield",
-      "label": "Game Audio Bundle 1 - Stuart Duffield",
-      "path": "/packs/stuart-duffield.db",
+      "name": "Game Audio Bundle 1 - Ambiences New Zealand North Island",
+      "label": "Game Audio Bundle 1 - Ambiences New Zealand North Island",
+      "path": "/packs/ambiences-new-zealand-north-island.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - The Audioville",
-      "label": "Game Audio Bundle 1 - The Audioville",
-      "path": "/packs/the-audioville.db",
+      "name": "Game Audio Bundle 1 - Ambiences Residential",
+      "label": "Game Audio Bundle 1 - Ambiences Residential",
+      "path": "/packs/ambiences-residential.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - The Sound Pack Tree",
-      "label": "Game Audio Bundle 1 - The Sound Pack Tree",
-      "path": "/packs/the-sound-pack-tree.db",
+      "name": "Game Audio Bundle 1 - Ambiences Restaurant",
+      "label": "Game Audio Bundle 1 - Ambiences Restaurant",
+      "path": "/packs/ambiences-restaurant.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - The Soundcatcher",
-      "label": "Game Audio Bundle 1 - The Soundcatcher",
-      "path": "/packs/the-soundcatcher.db",
+      "name": "Game Audio Bundle 1 - Ambiences Rio De Janeiro",
+      "label": "Game Audio Bundle 1 - Ambiences Rio De Janeiro",
+      "path": "/packs/ambiences-rio-de-janeiro.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Timothy Mchugh",
-      "label": "Game Audio Bundle 1 - Timothy Mchugh",
-      "path": "/packs/timothy-mchugh.db",
+      "name": "Game Audio Bundle 1 - Ambiences Rwanda",
+      "label": "Game Audio Bundle 1 - Ambiences Rwanda",
+      "path": "/packs/ambiences-rwanda.db",
       "entity": "Playlist"
     },
     {
-      "name": "Game Audio Bundle 1 - Ts Sound",
-      "label": "Game Audio Bundle 1 - Ts Sound",
-      "path": "/packs/ts-sound.db",
+      "name": "Game Audio Bundle 1 - Ambiences Sci Fi",
+      "label": "Game Audio Bundle 1 - Ambiences Sci Fi",
+      "path": "/packs/ambiences-sci-fi.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Shepard",
+      "label": "Game Audio Bundle 1 - Ambiences Shepard",
+      "path": "/packs/ambiences-shepard.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Sound Library",
+      "label": "Game Audio Bundle 1 - Ambiences Sound Library",
+      "path": "/packs/ambiences-sound-library.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences South African Crickets",
+      "label": "Game Audio Bundle 1 - Ambiences South African Crickets",
+      "path": "/packs/ambiences-south-african-crickets.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences South African Exterior",
+      "label": "Game Audio Bundle 1 - Ambiences South African Exterior",
+      "path": "/packs/ambiences-south-african-exterior.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences South African Interior",
+      "label": "Game Audio Bundle 1 - Ambiences South African Interior",
+      "path": "/packs/ambiences-south-african-interior.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Space Drones and Atmospheres",
+      "label": "Game Audio Bundle 1 - Ambiences Space Drones and Atmospheres",
+      "path": "/packs/ambiences-space-drones-and-atmospheres.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Spring In The Pacific Northwest",
+      "label": "Game Audio Bundle 1 - Ambiences Spring In The Pacific Northwest",
+      "path": "/packs/ambiences-spring-in-the-pacific-northwest.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Summer Mountains",
+      "label": "Game Audio Bundle 1 - Ambiences Summer Mountains",
+      "path": "/packs/ambiences-summer-mountains.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Tropical",
+      "label": "Game Audio Bundle 1 - Ambiences Tropical",
+      "path": "/packs/ambiences-tropical.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Unreal",
+      "label": "Game Audio Bundle 1 - Ambiences Unreal",
+      "path": "/packs/ambiences-unreal.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Vienna City",
+      "label": "Game Audio Bundle 1 - Ambiences Vienna City",
+      "path": "/packs/ambiences-vienna-city.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Winter Forest",
+      "label": "Game Audio Bundle 1 - Ambiences Winter Forest",
+      "path": "/packs/ambiences-winter-forest.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Worldwide",
+      "label": "Game Audio Bundle 1 - Ambiences Worldwide",
+      "path": "/packs/ambiences-worldwide.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambiences Yellowstone Geysers",
+      "label": "Game Audio Bundle 1 - Ambiences Yellowstone Geysers",
+      "path": "/packs/ambiences-yellowstone-geysers.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambient Puzzle Sfx Pack",
+      "label": "Game Audio Bundle 1 - Ambient Puzzle Sfx Pack",
+      "path": "/packs/ambient-puzzle-sfx-pack.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambient Soundscapes",
+      "label": "Game Audio Bundle 1 - Ambient Soundscapes",
+      "path": "/packs/ambient-soundscapes.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambisonic Airplane Cessna 172",
+      "label": "Game Audio Bundle 1 - Ambisonic Airplane Cessna 172",
+      "path": "/packs/ambisonic-airplane-cessna-172.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambisonic Bishopstone Beach",
+      "label": "Game Audio Bundle 1 - Ambisonic Bishopstone Beach",
+      "path": "/packs/ambisonic-bishopstone-beach.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambisonic City",
+      "label": "Game Audio Bundle 1 - Ambisonic City",
+      "path": "/packs/ambisonic-city.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambisonic Crowds",
+      "label": "Game Audio Bundle 1 - Ambisonic Crowds",
+      "path": "/packs/ambisonic-crowds.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambisonic Forest Spring",
+      "label": "Game Audio Bundle 1 - Ambisonic Forest Spring",
+      "path": "/packs/ambisonic-forest-spring.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ambisonic Forest Summer",
+      "label": "Game Audio Bundle 1 - Ambisonic Forest Summer",
+      "path": "/packs/ambisonic-forest-summer.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Amc Javelin 1968",
+      "label": "Game Audio Bundle 1 - Amc Javelin 1968",
+      "path": "/packs/amc-javelin-1968.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - American Desert Birds",
+      "label": "Game Audio Bundle 1 - American Desert Birds",
+      "path": "/packs/american-desert-birds.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Analog Synth Volume 1 Bleeps Sweeps And Creeps",
+      "label": "Game Audio Bundle 1 - Analog Synth Volume 1 Bleeps Sweeps And Creeps",
+      "path": "/packs/analog-synth-volume-1-bleeps-sweeps-and-creeps.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Analog Synthesized Ui And Sfx",
+      "label": "Game Audio Bundle 1 - Analog Synthesized Ui And Sfx",
+      "path": "/packs/analog-synthesized-ui-and-sfx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Analogue Rotary Telephone",
+      "label": "Game Audio Bundle 1 - Analogue Rotary Telephone",
+      "path": "/packs/analogue-rotary-telephone.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Anarchy",
+      "label": "Game Audio Bundle 1 - Anarchy",
+      "path": "/packs/anarchy.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Animal Farm",
+      "label": "Game Audio Bundle 1 - Animal Farm",
+      "path": "/packs/animal-farm.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Antiques",
+      "label": "Game Audio Bundle 1 - Antiques",
+      "path": "/packs/antiques.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Apc Renault Vab",
+      "label": "Game Audio Bundle 1 - Apc Renault Vab",
+      "path": "/packs/apc-renault-vab.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - App Fx",
+      "label": "Game Audio Bundle 1 - App Fx",
+      "path": "/packs/app-fx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Arcadia",
+      "label": "Game Audio Bundle 1 - Arcadia",
+      "path": "/packs/arcadia.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Arctic Cat M 8000 2015",
+      "label": "Game Audio Bundle 1 - Arctic Cat M 8000 2015",
+      "path": "/packs/arctic-cat-m-8000-2015.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Artificial Life",
+      "label": "Game Audio Bundle 1 - Artificial Life",
+      "path": "/packs/artificial-life.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Arvor 215 Boat",
+      "label": "Game Audio Bundle 1 - Arvor 215 Boat",
+      "path": "/packs/arvor-215-boat.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Assorted Foley Elements",
+      "label": "Game Audio Bundle 1 - Assorted Foley Elements",
+      "path": "/packs/assorted-foley-elements.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Aston Martin Db9 2017",
+      "label": "Game Audio Bundle 1 - Aston Martin Db9 2017",
+      "path": "/packs/aston-martin-db9-2017.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Athens Rooftop",
+      "label": "Game Audio Bundle 1 - Athens Rooftop",
+      "path": "/packs/athens-rooftop.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Atmosfear",
+      "label": "Game Audio Bundle 1 - Atmosfear",
+      "path": "/packs/atmosfear.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Attack Aircraft Maneuvers",
+      "label": "Game Audio Bundle 1 - Attack Aircraft Maneuvers",
+      "path": "/packs/attack-aircraft-maneuvers.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Audi",
+      "label": "Game Audio Bundle 1 - Audi",
+      "path": "/packs/audi.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Audience Reactions",
+      "label": "Game Audio Bundle 1 - Audience Reactions",
+      "path": "/packs/audience-reactions.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Automatic Umbrellas",
+      "label": "Game Audio Bundle 1 - Automatic Umbrellas",
+      "path": "/packs/automatic-umbrellas.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Axmos_Cinematic Guitars",
+      "label": "Game Audio Bundle 1 - Axmos_Cinematic Guitars",
+      "path": "/packs/axmos_cinematic-guitars.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Babies and Kids",
+      "label": "Game Audio Bundle 1 - Babies and Kids",
+      "path": "/packs/babies-and-kids.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Background Morocco",
+      "label": "Game Audio Bundle 1 - Background Morocco",
+      "path": "/packs/background-morocco.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bag Foley",
+      "label": "Game Audio Bundle 1 - Bag Foley",
+      "path": "/packs/bag-foley.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Balkan Tribal Festival",
+      "label": "Game Audio Bundle 1 - Balkan Tribal Festival",
+      "path": "/packs/balkan-tribal-festival.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Ball Bounces",
+      "label": "Game Audio Bundle 1 - Ball Bounces",
+      "path": "/packs/ball-bounces.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bar Effects",
+      "label": "Game Audio Bundle 1 - Bar Effects",
+      "path": "/packs/bar-effects.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Barcelona Ambiences",
+      "label": "Game Audio Bundle 1 - Barcelona Ambiences",
+      "path": "/packs/barcelona-ambiences.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Barcelona City Ambiences",
+      "label": "Game Audio Bundle 1 - Barcelona City Ambiences",
+      "path": "/packs/barcelona-city-ambiences.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Barge Bronz Diesel 1941",
+      "label": "Game Audio Bundle 1 - Barge Bronz Diesel 1941",
+      "path": "/packs/barge-bronz-diesel-1941.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Barking Dog",
+      "label": "Game Audio Bundle 1 - Barking Dog",
+      "path": "/packs/barking-dog.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Barrett M98b 338 Lapua",
+      "label": "Game Audio Bundle 1 - Barrett M98b 338 Lapua",
+      "path": "/packs/barrett-m98b-338-lapua.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Basketball Game Ultra",
+      "label": "Game Audio Bundle 1 - Basketball Game Ultra",
+      "path": "/packs/basketball-game-ultra.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bass Weight Low End Elements",
+      "label": "Game Audio Bundle 1 - Bass Weight Low End Elements",
+      "path": "/packs/bass-weight-low-end-elements.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bathroom",
+      "label": "Game Audio Bundle 1 - Bathroom",
+      "path": "/packs/bathroom.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Battlecruiser Spaceship",
+      "label": "Game Audio Bundle 1 - Battlecruiser Spaceship",
+      "path": "/packs/battlecruiser-spaceship.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Battlefield Howitzers",
+      "label": "Game Audio Bundle 1 - Battlefield Howitzers",
+      "path": "/packs/battlefield-howitzers.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Beach",
+      "label": "Game Audio Bundle 1 - Beach",
+      "path": "/packs/beach.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Beehive",
+      "label": "Game Audio Bundle 1 - Beehive",
+      "path": "/packs/beehive.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Beeps And Buzzers",
+      "label": "Game Audio Bundle 1 - Beeps And Buzzers",
+      "path": "/packs/beeps-and-buzzers.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Beer And Whiskey Commercials",
+      "label": "Game Audio Bundle 1 - Beer And Whiskey Commercials",
+      "path": "/packs/beer-and-whiskey-commercials.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Berlin Balcony",
+      "label": "Game Audio Bundle 1 - Berlin Balcony",
+      "path": "/packs/berlin-balcony.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bicycles Sfx",
+      "label": "Game Audio Bundle 1 - Bicycles Sfx",
+      "path": "/packs/bicycles-sfx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Big Machines",
+      "label": "Game Audio Bundle 1 - Big Machines",
+      "path": "/packs/big-machines.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Big Pack",
+      "label": "Game Audio Bundle 1 - Big Pack",
+      "path": "/packs/big-pack.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bigblock",
+      "label": "Game Audio Bundle 1 - Bigblock",
+      "path": "/packs/bigblock.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Billiards",
+      "label": "Game Audio Bundle 1 - Billiards",
+      "path": "/packs/billiards.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Binaural Beaches Of Northen California",
+      "label": "Game Audio Bundle 1 - Binaural Beaches Of Northen California",
+      "path": "/packs/binaural-beaches-of-northen-california.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Black Hawk Uh 60m",
+      "label": "Game Audio Bundle 1 - Black Hawk Uh 60m",
+      "path": "/packs/black-hawk-uh-60m.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Black Metal",
+      "label": "Game Audio Bundle 1 - Black Metal",
+      "path": "/packs/black-metal.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Black Sea",
+      "label": "Game Audio Bundle 1 - Black Sea",
+      "path": "/packs/black-sea.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Blacksmith",
+      "label": "Game Audio Bundle 1 - Blacksmith",
+      "path": "/packs/blacksmith.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bloodbath",
+      "label": "Game Audio Bundle 1 - Bloodbath",
+      "path": "/packs/bloodbath.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Blurry Dreams",
+      "label": "Game Audio Bundle 1 - Blurry Dreams",
+      "path": "/packs/blurry-dreams.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bmw",
+      "label": "Game Audio Bundle 1 - Bmw",
+      "path": "/packs/bmw.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bodyfall",
+      "label": "Game Audio Bundle 1 - Bodyfall",
+      "path": "/packs/bodyfall.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Boeing B 17g 1945",
+      "label": "Game Audio Bundle 1 - Boeing B 17g 1945",
+      "path": "/packs/boeing-b-17g-1945.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Books and Magazines",
+      "label": "Game Audio Bundle 1 - Books and Magazines",
+      "path": "/packs/books-and-magazines.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bowed Bicycle",
+      "label": "Game Audio Bundle 1 - Bowed Bicycle",
+      "path": "/packs/bowed-bicycle.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Box Abuse",
+      "label": "Game Audio Bundle 1 - Box Abuse",
+      "path": "/packs/box-abuse.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Brdm 2 Apc 1964",
+      "label": "Game Audio Bundle 1 - Brdm 2 Apc 1964",
+      "path": "/packs/brdm-2-apc-1964.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Breathing In Hell",
+      "label": "Game Audio Bundle 1 - Breathing In Hell",
+      "path": "/packs/breathing-in-hell.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bristol Blenheim Mk 1 1934",
+      "label": "Game Audio Bundle 1 - Bristol Blenheim Mk 1 1934",
+      "path": "/packs/bristol-blenheim-mk-1-1934.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Broken",
+      "label": "Game Audio Bundle 1 - Broken",
+      "path": "/packs/broken.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Brushcutter",
+      "label": "Game Audio Bundle 1 - Brushcutter",
+      "path": "/packs/brushcutter.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bsa M20 1940",
+      "label": "Game Audio Bundle 1 - Bsa M20 1940",
+      "path": "/packs/bsa-m20-1940.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Bunkers",
+      "label": "Game Audio Bundle 1 - Bunkers",
+      "path": "/packs/bunkers.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Burning House Library",
+      "label": "Game Audio Bundle 1 - Burning House Library",
+      "path": "/packs/burning-house-library.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Burp",
+      "label": "Game Audio Bundle 1 - Burp",
+      "path": "/packs/burp.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Burst",
+      "label": "Game Audio Bundle 1 - Burst",
+      "path": "/packs/burst.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Busy Streets Ambience",
+      "label": "Game Audio Bundle 1 - Busy Streets Ambience",
+      "path": "/packs/busy-streets-ambience.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 1 - Buttons And Switches",
+      "label": "Game Audio Bundle 1 - Buttons And Switches",
+      "path": "/packs/buttons-and-switches.db",
       "entity": "Playlist"
     }
   ],
