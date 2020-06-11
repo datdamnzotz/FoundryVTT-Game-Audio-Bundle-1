@@ -1,6 +1,3 @@
-	
-	
-
 # Foundry VTT - Game Audio Bundle 1 of 4
 
 This Foundry VTT module brings ROYALTY-FREE sound effects and music from http://www.sonniss.com
@@ -9,11 +6,7 @@ This Foundry VTT module brings ROYALTY-FREE sound effects and music from http://
 ## This is a large download
 Featuring 54 playlists with 629 ogg files - 441MB of sound effects and music which is transformed into Playlists for VTT.
 
-<center>
-
 ![](img/comp.png?raw=true)
-
-</center>
 
 # Automatic Installation (from setup -> Add Modules)
 
@@ -28,11 +21,7 @@ Download the latest release zip from `Releases` and unzip it to your module dire
 # Activate the module
 After the install, as GM go to the `Manage Modules` options menu in your World Settings tab then enable the `Foundry VTT - Game Audio Bundle 1` module.
 
-<center>
-
 ![](img/managemodules.png?raw=true)
-
-</center>
 
 # Usage
 
@@ -40,11 +29,7 @@ The Playlists will then show up under `Compendium Packs` prefixed with `Game Aud
 
 Open the Playlist from the Compendium Packs and drag a playlist into the Audio Playlist.
 
-<center>
-
 ![](img/drag.gif?raw=true)
-
-</center>
 
 Enjoy!
 
@@ -60,7 +45,7 @@ Enjoy!
 
 # License
 [License](Licensing.pdf)
-</center>
+
 
 
 
