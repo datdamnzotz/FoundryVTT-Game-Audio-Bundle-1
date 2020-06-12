@@ -13,7 +13,7 @@ Featuring 150 playlists with 595 ogg files - 733Mb of sound effects and music wh
 
 ![](img/lists.gif?raw=true)
 
-Full Playlist [here](playlists.txt)
+Full Playlist [here](src/)
 
 # Automatic Installation (from setup -> Add Modules)
 
