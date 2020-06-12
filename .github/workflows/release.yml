@@ -1,4 +1,3 @@
-
 name: Push Build
 # For releases
 on:
@@ -23,6 +22,14 @@ jobs:
           echo Version2: $VERSION2
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Update module.json
+        run: |
+          echo Version: ${{ steps.get_version.outputs.VERSION }}
+          echo Version2: ${{ steps.get_version.outputs.VERSION2 }}
+          echo Download url: ${{ steps.upload-release-asset.browser_download_url }}
+          sed -i '/"version":/c\  "version": "${{ steps.get_version.outputs.VERSION2 }}",' module.json
+          sed -i '/"download":/c\  "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/releases/download/${{ steps.get_version.outputs.VERSION }}/${{ steps.get_version.outputs.VERSION }}.zip"' module.json
+          cat module.json
       - name: Zip project # This would actually build your project, using zip for an example artifact
         run: 7z a -tzip ${{ steps.get_version.outputs.VERSION }}.zip . -mx0 -xr!.git -xr!.github
       - name: Create Release
@@ -45,14 +52,6 @@ jobs:
           asset_path: ./${{ steps.get_version.outputs.VERSION }}.zip
           asset_name: ${{ steps.get_version.outputs.VERSION }}.zip
           asset_content_type: application/zip
-      - name: Update module.json
-        run: |
-          echo Version: ${{ steps.get_version.outputs.VERSION }}
-          echo Version2: ${{ steps.get_version.outputs.VERSION2 }}
-          echo Download url: ${{ steps.upload-release-asset.browser_download_url }}
-          sed -i '/"version":/c\  "version": "${{ steps.get_version.outputs.VERSION2 }}",' module.json
-          sed -i '/"download":/c\  "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/releases/download/${{ steps.get_version.outputs.VERSION }}/${{ steps.get_version.outputs.VERSION }}.zip"' module.json
-          cat module.json
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
