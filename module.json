@@ -1,20 +1,18 @@
 {
-  "name": "gAudioBundle-1",
-  "title": "Game Audio Bundle 1",
-  "description": "<p>High-quality sound effects from many of the best sound recordists and designers in the World. Use them personally or commercially without attribution. Sonniss LTD.</p>",
-  "version": "2.2",
-  "minimumCoreVersion": "0.5.0",
-  "compatibleCoreVersion": "0.7.3",
-  "author": "DatDamnZotz [DatDamnZotz#7962]",
-  "packs": [
-    {
-      "name": "Game Audio Bundle 1 - Playlists 1",
-      "label": "Game Audio Bundle 1 - Playlists 1",
-      "path": "/packs/playlist1.db",
-      "entity": "Playlist"
-    }
-  ],
-  "url": "https://github.com/datdamnzotz/FoundryVTT-gAudioBundle-1",
-  "manifest": "https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/master/module.json",
-  "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/releases/download/v2.2/v2.2.zip"
+    "name": "gAudioBundle-1",
+    "title": "Game Audio Bundle 1",
+    "description": "<p>High-quality sound effects from many of the best sound recordists and designers in the World. Use them personally or commercially without attribution. Sonniss LTD.</p>",
+    "version": "2.2",
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion": "0.8.0",
+    "author": "DatDamnZotz [DatDamnZotz#7962]",
+    "packs": [{
+        "name": "Game Audio Bundle 1 - Playlists 1",
+        "label": "Game Audio Bundle 1 - Playlists 1",
+        "path": "/packs/playlist1.db",
+        "entity": "Playlist"
+    }],
+    "url": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1",
+    "manifest": "https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/master/module.json",
+    "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1/releases/download/v2.2/v2.2.zip"
 }
