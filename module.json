@@ -4,7 +4,7 @@
     "description": "<p>High-quality sound effects from many of the best sound recordists and designers in the World. Use them personally or commercially without attribution. Sonniss LTD.</p>",
   "version": "2.4",
     "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion": "0.8.9",
+    "compatibleCoreVersion": "9",
     "author": "DatDamnZotz [DatDamnZotz#7962]",
     "packs": [{
         "name": "Game Audio Bundle 1 - Playlists 1",
