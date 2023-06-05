@@ -1,8 +1,3 @@
-# Upgrading from 1.1 to 2.0 you will have to delete and reimport your playlists!
-
-Sound effects and music were re-indexed to make more sense.  
-Remove and re-create any existing playlists you may have had. (Indexing reshuffled the directories)
-
 # Foundry VTT - Game Audio Bundle 1 of 4
 
 This Foundry VTT module brings ROYALTY-FREE sound effects and music from http://www.sonniss.com
