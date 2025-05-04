@@ -8,7 +8,10 @@
     "minimum": "0.5.0",
     "verified": 12
   },
-  "author": "DatDamnZotz [DatDamnZotz#7962]",
+  "authors": [{
+    "name": "DatDamnZotz",
+    "discord": "Atropos#3814",
+  }],
   "packs": [
     {
       "name": "Game Audio Bundle 1 - Playlists 1",
