@@ -6,12 +6,18 @@
   "version": "3.4",
   "compatibility": {
     "minimum": "0.5.0",
-    "verified": 12
+    "verified": 14
   },
-  "author": "DatDamnZotz [DatDamnZotz#7962]",
+  "authors": [
+    {
+      "id": "DatDamnZotz",
+      "discord": "DatDamnZotz#7962",
+      "email": "thdm@dungeonmastersvault.com"
+    }
+  ],
   "packs": [
     {
-      "name": "Game Audio Bundle 1 - Playlists 1",
+      "name": "GameAudioBundle1Playlists1",
       "label": "Game Audio Bundle 1 - Playlists 1",
       "path": "/packs/playlist1.db",
       "entity": "Playlist",
